@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```c
-Developed by : KULASEKARAPANDIAN K
-Ref No : 212222240052
+DEVELOPED by : KULASEKARAPANDIAN K
+REF NO: 212222240052
 ```
 ```c
 #include "main.h" #include "stdbool.h" bool buttonstatus;
